@@ -1,3 +1,5 @@
+//COMPLETE CODE OF THE SYSTEM 
+//add the library 
 #include <LiquidCrystal_I2C.h>
  // Define I2C address for the LCD (0x27, or change based on your setup)
 LiquidCrystal_I2C lcd(0x27, 16, 2);

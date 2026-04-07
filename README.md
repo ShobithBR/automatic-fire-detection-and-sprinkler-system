@@ -157,7 +157,6 @@ automatic-fire-detection-and-sprinkler-system/
 ├── diagrams/
 │   ├── block_diagram.png
 │   ├── wiring_diagram.png
-│   └── flowchart.png
 ├── images/
 │   ├── setup_before_fire.jpg
 │   ├── setup_after_fire.jpg
@@ -165,8 +164,7 @@ automatic-fire-detection-and-sprinkler-system/
 │   ├── lcd_fire_detected.jpg
 │   ├── relay_module_closeup.jpg
 │   └── flame_sensor_closeup.jpg
-├── docs/
-│   └── report.pdf
+│── report.pdf
 └── README.md
 ```
 

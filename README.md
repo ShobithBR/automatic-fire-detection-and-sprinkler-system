@@ -206,3 +206,5 @@ This project shows how basic sensors, a relay, and Arduino can be combined to bu
 - How to design simple safety and automation systems
 
 Anyone familiar with basic Arduino can reproduce and extend this project for education and small-scale safety applications.
+
+All the required codes and prototype images and results obtained are all in the respective folders and files , you can get everything required to reproduce the project .

@@ -24,6 +24,10 @@ If no flame is detected:
 This makes it useful as a basic automatic fire response system for small spaces like rooms, labs, or workshops.
 
 ---
+## 🎥 Project Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/6MYKPq32hmM/maxresdefault.jpg)](https://youtu.be/6MYKPq32hmM)
+
 
 ## 2. Main Features
 

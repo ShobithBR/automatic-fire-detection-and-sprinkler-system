@@ -165,7 +165,6 @@ automatic-fire-detection-and-sprinkler-system/
 │   └── report.pdf
 └── README.md
 
-
 ---
 
 ## 8. How to Use This Project

@@ -146,6 +146,7 @@ The Arduino code follows a simple algorithm:
 
 ## 7. Project Structure 
 
+```text
 automatic-fire-detection-and-sprinkler-system/
 ├── code/
 │   └── automatic_fire_detector.ino
@@ -163,6 +164,7 @@ automatic-fire-detection-and-sprinkler-system/
 ├── docs/
 │   └── report.pdf
 └── README.md
+```
 
 ---
 

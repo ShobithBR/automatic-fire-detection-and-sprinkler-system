@@ -138,6 +138,10 @@ The Arduino code follows a simple algorithm:
      - Show “Regulated Temp.” and “System Normal” on LCD
    - Small delay (e.g., 50 ms) to avoid flickering and rapid toggling
 
+## Libraries Used
+- LiquidCrystal_I2C.h  
+  Used for interfacing the 16x2 I2C LCD display with the Arduino Uno.
+  
 ---
 
 ## 7. Project Structure 
